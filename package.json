@@ -1,8 +1,8 @@
 {
   "name": "beefor2",
-  "version": "0.1.7",
+  "version": "0.1.9",
   "private": false,
-  "main": "./dist/beefor2.common.js",
+  "main": "./src/main.js",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
