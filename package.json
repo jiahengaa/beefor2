@@ -1,6 +1,6 @@
 {
   "name": "beefor2",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "private": false,
   "main": "dist/beefor2.umd.min.js",
   "files": [
@@ -11,7 +11,7 @@
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
-    "build-lib": "vue-cli-service build --target lib --name beefor2 ./src/main.js"
+    "build-lib": "vue-cli-service build --target lib --name beefor2 ./src/index.js"
   },
   "dependencies": {
     "beegridtable": "^1.1.4",
